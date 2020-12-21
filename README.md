@@ -3,4 +3,4 @@ This is a Python-Spambot with commands from Linux-Terminal which I choosed rando
 
 First you have to install the pyautogui: https://www.youtube.com/watch?v=HQ83Xz2K-ps
 
-You have to start the bot and then you have 3 seconds to change in the "message box", now you have to wait until it's finished.
+If you installed the "pyautogui" module, start the bot, then you have 3 seconds to change in the "message box", now you have to wait until it's finished.
